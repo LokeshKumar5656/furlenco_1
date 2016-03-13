@@ -1,0 +1,12 @@
+com/furlenco/commons/FurlencoResponse.class
+com/furlenco/commons/Result.class
+com/furlenco/commons/AddressComponent.class
+com/furlenco/commons/AddressDetails.class
+com/furlenco/commons/SiteMetric.class
+com/furlenco/commons/AnalyticsSiteResponse.class
+com/furlenco/commons/CreateMetricRequest.class
+com/furlenco/commons/entity/SiteUser.class
+com/furlenco/commons/EventMetrics.class
+com/furlenco/commons/App.class
+com/furlenco/commons/entity/AdminUser.class
+com/furlenco/commons/MapResponse.class
